@@ -1,5 +1,8 @@
 # Curriculum Vitae - Igor Couto
 
-My own one page curriculum vitae, done in HTML and exported as pdf.
-Currently its only available in Portuguese BR
-
+```
+I gotta, gotta, gotta get to work... 
+there's a lotta, lotta, lot of work to do!
+And not a, not a, not a lot of time, but... 
+I'll keep on working 'til my work is through!
+```
